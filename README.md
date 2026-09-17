@@ -11,7 +11,7 @@ The demo provides audio comparisons of alignment-free TTS systems for cross-ling
 
 ### Demo
 
-🔗 **[Open the Demo Page](https://Cross-Lingual-TTS.github.io/Cross-Lingual-TTS-Indian-Languages/)**
+🔗 **[Open the Demo Page](https://Cross-Lingual-TTS.github.io/Cross-Lingual-TTS-for-Indian-Languages/)**
 
 ### Comparisons
 
